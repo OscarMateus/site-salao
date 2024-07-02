@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+    background-color: #D9AB73;
+}
+
+header h1,h2{
+    background-color: #D9AF62;
+}
+
+img{
+ width: 250px;
+ height: 250px;
+}
+main{
+    max-width: 800px;
+    min-width: 300px;
+    margin: auto;
+    background-color: #D9AB73;
+ }
+main img{
+   
+    align-items:left;
+    display: flexbox;
+}
+main p{
+    text-align: center;
+}
